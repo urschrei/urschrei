@@ -4,6 +4,6 @@ I'm a Marie Curie research fellow in the department of geography at [Trinity Col
 
 I also work on [computational geometry algorithms in Rust](https://github.com/georust/geo), and I have a longstanding interest in [geographic data processing and visualisation](https://github.com/urschrei/Geopython) in Python.
 
-If you're interested, you can see my publications at [Google Scholar](https://scholar.google.com/citations?user=usNnd3IAAAAJ&hl=en). I almost never talk about work on [Twitter](https://twitter.com/urschrei).
+If you're interested, you can see my publications at [Google Scholar](https://scholar.google.com/citations?user=usNnd3IAAAAJ&hl=en). I almost never talk about work on [social media](https://mastodon.social/@urschreimedia).
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-4379-2450" href="https://orcid.org/0000-0003-4379-2450" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-4379-2450</a></div>
