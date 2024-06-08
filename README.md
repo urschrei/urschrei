@@ -4,4 +4,4 @@ I'm a Marie Curie research fellow in the department of geography at [Trinity Col
 
 I also work on [computational geometry algorithms in Rust](https://github.com/georust/geo), and I have a longstanding interest in [geographic data processing and visualisation](https://github.com/urschrei/Geopython) in Python.
 
-If you're interested, you can see my publications at [Google Scholar](https://scholar.google.com/citations?user=usNnd3IAAAAJ&hl=en). I almost never talk about work on [social media](https://mastodon.social/@urschrei).
+If you're interested, you can see my publications at [Google Scholar](https://scholar.google.com/citations?user=usNnd3IAAAAJ&hl=en). I almost never talk about work on [social media](https://mastodon.social/@urschrei). I am not overly interested in imputing meaning to the results of matrix multiplication.
